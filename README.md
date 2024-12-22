@@ -1,4 +1,5 @@
 study-of-basic-gates
+
 AIM:
 
 To study and verify the truth table of logic gates in Quartus II using Verilog programming.
@@ -77,7 +78,7 @@ Logic symbol & Truthtable
 RTL realization Output:
 ![393238558-c743df8c-42f5-4234-8588-244101a28b0a](https://github.com/user-attachments/assets/b2cf79a8-93cb-422d-bf0c-9cdfab2c0ad9)
 
-RTL
+RTL:
 ![393242241-7272d12c-190d-48fb-860d-9c178d388b46](https://github.com/user-attachments/assets/aefd2fa0-0fa0-4480-8ff2-839dfc9a99a0)
 
 Result:
