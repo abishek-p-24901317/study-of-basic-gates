@@ -64,7 +64,7 @@ Developed by: Abishek P, 24901317
 
 
 Logic symbol & Truthtable
-![393237245-bc844c2b-2fe0-4809-998c-c3c28a1e9073](https://github.com/user-attachments/assets/7ea703ad-90ea-4e51-bfba-a8bdff5552ee)
+![387982053-17d7fc98-b3b2-42db-be5d-c9cfcf6f83e4](https://github.com/user-attachments/assets/e89ce4f7-9829-4472-be45-8aee8c0940e4)
 
 RTL realization Output:
 ![393238558-c743df8c-42f5-4234-8588-244101a28b0a](https://github.com/user-attachments/assets/b2cf79a8-93cb-422d-bf0c-9cdfab2c0ad9)
