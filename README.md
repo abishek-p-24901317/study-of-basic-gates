@@ -57,12 +57,28 @@ PROGRAM
 
 Program for logic gates and verify its truth table in quartus using Verilog programming
 
-Developed by: RegisterNumber:
+Developed by: Abishek P, 24901317
+
+module ex1(a,b,c1,c2,c3,c4,c5,c6,c7);
+input a,b;
+output c1,c2,c3,c4,c5,c6,c7;
+not g1(c1,a);
+and g2(c2,a,b);
+or g3(c3,a,b);
+nand g4(c4,a,b);
+nor g5(c5,a,b);
+xor g6(c6,a,b);
+xnor g7(c7,a,b);
+endmodule
 
 Logic symbol & Truthtable
+![393237245-bc844c2b-2fe0-4809-998c-c3c28a1e9073](https://github.com/user-attachments/assets/7ea703ad-90ea-4e51-bfba-a8bdff5552ee)
 
 RTL realization Output:
+![393238558-c743df8c-42f5-4234-8588-244101a28b0a](https://github.com/user-attachments/assets/b2cf79a8-93cb-422d-bf0c-9cdfab2c0ad9)
 
 RTL
+![393242241-7272d12c-190d-48fb-860d-9c178d388b46](https://github.com/user-attachments/assets/aefd2fa0-0fa0-4480-8ff2-839dfc9a99a0)
 
 Result:
+Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
