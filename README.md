@@ -59,18 +59,22 @@ PROGRAM
 Program for logic gates and verify its truth table in quartus using Verilog programming
 
 Developed by: Abishek P, 24901317
+![400111492-a5013810-32cc-4bca-85e3-f617f0d815a2](https://github.com/user-attachments/assets/b0eb5bcd-4a66-4cbb-bb0c-1c398bea2d6d)
 
-![image](https://github.com/user-attachments/assets/1e0f3061-e916-4ba3-a0cf-f38bf3399067)
+
 
 
 Logic symbol & Truthtable
 ![387982053-17d7fc98-b3b2-42db-be5d-c9cfcf6f83e4](https://github.com/user-attachments/assets/e89ce4f7-9829-4472-be45-8aee8c0940e4)
 
-RTL realization Output:
-![393238558-c743df8c-42f5-4234-8588-244101a28b0a](https://github.com/user-attachments/assets/b2cf79a8-93cb-422d-bf0c-9cdfab2c0ad9)
 
-RTL:
-![393242241-7272d12c-190d-48fb-860d-9c178d388b46](https://github.com/user-attachments/assets/aefd2fa0-0fa0-4480-8ff2-839dfc9a99a0)
+RTL realization Output:
+
+![400111497-8da56685-49b5-4265-9eba-bbca310b1ff7](https://github.com/user-attachments/assets/586a4507-2659-4278-8190-dc27f76a84f3)
+
+timing diagram
+![400111501-f0868c92-13dc-4cd2-a7aa-0013f27d84c3](https://github.com/user-attachments/assets/fc59e7d4-01fe-40bf-bbbc-66203976126f)
+
 
 Result:
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
